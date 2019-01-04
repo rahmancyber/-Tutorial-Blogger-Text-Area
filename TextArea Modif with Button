@@ -1,0 +1,25 @@
+TEXT AREA dengan Tombol Seleksi semua
+
+
+<div>
+<form name="textarea">
+<div align="center">
+<input onclick="javascript:this.form.txt.focus();this.form.txt.select();" type="button" value="Select All" /> </div>
+<div align="center">
+<textarea cols="30" name="txt" rows="5" wrap="All">Ubah tulisan Kalian</textarea></div>
+</form>
+</div>
+
+
+
+
+
+TEXT AREA dengan Modifikasi Style
+
+
+<form name="textarea">
+<div align="center">
+<input onclick="javascript:this.form.txt.focus();this.form.txt.select();" type="button" value="Select All" /> </div>
+<div align="center">
+<textarea cols-="" cols="30" name="txt" rows="5" style="-moz-border-radius: 10px; -webkit-border-radius: 10px; background-color: #f3f3f3; border-left: 5px solid #2288dd; border-radius: 10px; padding: 10px; t-align: left;" wrap="All">Masukkan Kode Kalian Disini </textarea> </div>
+</form>
