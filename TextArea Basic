@@ -1,0 +1,11 @@
+TEXT AREA basic Tanpa Pengaturan Apapun
+
+
+<textarea>Ubah tulisan Kalian</textarea>
+
+
+
+TEXT AREA dengan Beberapa Pengaturan
+
+
+<textarea cols-="" cols="30" rows="5" height="auto" width="100%">Masukkan Kode Kalian Disini </textarea>
